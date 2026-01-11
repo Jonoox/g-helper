@@ -529,7 +529,7 @@ namespace GHelper.USB
             0,  1,  2,  3,  0,  0, 
 
 /*02        RR  R   RM  LM  L   LL  LighBar */
-            7,  7,  6,  5,  4,  4,
+            8,  9,  a,  b,  c,  d,
 
         };
 
